@@ -1,0 +1,15 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Downloaded statements
+tasks-*/
+algocode-downloads/
+*.pdf
+
+# Local configuration and macOS metadata
+.env
+.env.*
+.DS_Store
